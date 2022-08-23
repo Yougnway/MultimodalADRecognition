@@ -1,3 +1,7 @@
+# code usage
+
+A Pytorch implementation of paper 'Multimodal fusion for alzheimer's disease recognition' submitted to Applied Intelligence.
+
 # Introduction
 
 steps:
