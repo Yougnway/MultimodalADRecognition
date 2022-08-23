@@ -1,4 +1,4 @@
-# A Pytorch implementation of paper 'Multimodal fusion for alzheimer's disease recognition' submitted to Applied Intelligence.
+A Pytorch implementation of paper 'Multimodal fusion for alzheimer's disease recognition' submitted to Applied Intelligence.
 
 # Introduction
 
